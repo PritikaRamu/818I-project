@@ -1,0 +1,8 @@
+semgrep==1.181.0
+PyYAML==6.0.3
+numpy==2.5.4
+pandas==3.0.6
+matplotlib==3.11.2
+scikit-learn==1.9.1
+tabulate==0.10.0
+scipy==1.18.1

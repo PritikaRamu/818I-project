@@ -1,0 +1,5 @@
+{
+  "horizon": 300,
+  "trials": 200,
+  "clusters_per_language": 4
+}
